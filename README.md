@@ -1,16 +1,20 @@
-### Hi there 👋
+```python
+class Nobitha:
+    def __init__(self, age, nationality, religion, relationship_status, skills, languages, contact):
+        self.name = "Nobitha"
+        self.age = age
+        self.nationality = nationality
+        self.religion = religion
+        self.relationship_status = relationship_status
+        self.skills = skills
+        self.languages = languages
+        self.contact = contact
+    
+    def greet(self):
+        return f"Hello, I'm {self.name}! Nice to meet you. 😊"
 
-<!--
-**Yumiko-Bots/Yumiko-Bots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+nobitha = Nobitha(age='19+', nationality='Indian 🇮🇳', religion='Hindu 🥀', relationship_status='with you 💖', 
+                  skills=['Python', 'HTML', 'CSS', 'UI/UX design'], languages=['Telugu', 'English', 'Hindi'], 
+                  contact='+919876543210 😔')
+print(nobitha.greet())  ## Output: Hello, I'm Nobitha! Nice to meet you. 😊
+```
