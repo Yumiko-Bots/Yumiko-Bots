@@ -1,97 +1,29 @@
-## <u>Python</u>
-```python
-class Nobitha:
-    def __init__(self, age, nationality, religion, relationship_status, skills, languages, contact):
-        self.name = "Nobitha"
-        self.age = age
-        self.nationality = nationality
-        self.religion = religion
-        self.relationship_status = relationship_status
-        self.skills = skills
-        self.languages = languages
-        self.contact = contact
-    
-    def greet(self):
-        return f"Hello, I'm {self.name}! Nice to meet you. 😊"
+# Hi there, I'm Nobitha! 👋
 
-nobitha = Nobitha(age='19+', nationality='Indian 🇮🇳', religion='Hindu 🥀', relationship_status='with you 💖', 
-                  skills=['Python', 'HTML', 'CSS'], languages=['Telugu', 'English', 'Hindi'], 
-                  contact='+919876543210 😔')
-print(nobitha.greet())  ## Output: Hello, I'm Nobitha! Nice to meet you. 😊
-```
+I'm a passionate Telegram Bot developer with expertise in building innovative solutions. My interests range from developing telegram bots to web development, and I enjoy exploring new technologies to solve real-world problems.
 
-## <u>Go</u>
-```go
-package main
+## 🛠️ Technologies & Tools
 
-import "fmt"
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-type Nobitha struct {
-    name string
-    age string
-    nationality string
-    religion string
-    relationship_status string
-    skills []string
-    languages []string
-    contact string
-}
+## 📊 GitHub Stats
 
-func (n Nobitha) greet() string {
-    return fmt.Sprintf("Hello, I'm %v! Nice to meet you. 😊", n.name)
-}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumiko-Bots&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumiko-Bots&show_icons=true)
 
-func main() {
-    nobitha := Nobitha{
-        name: "Nobitha",
-        age: "19+",
-        nationality: "Indian 🇮🇳",
-        religion: "Hindu 🥀",
-        relationship_status: "with you 💖",
-        skills: []string{"Python", "HTML", "CSS"},
-        languages: []string{"Telugu", "English", "Hindi"},
-        contact: "+919876543210 😔",
-    }
-    fmt.Println(nobitha.greet())  // Output: "Hello, I'm Nobitha! Nice to meet you. 😊"
-}
-```
+## 📈 Contributions
 
-## <u>C lang</u>
-```c
-#include <stdio.h>
+![image](https://github.com/Yumiko-Bots/Yumiko-Bots/assets/131843574/28b63226-be35-443d-8bef-5f4b7744bf85)
 
-typedef struct {
-    char* name;
-    char* age;
-    char* nationality;
-    char* religion;
-    char* relationship_status;
-    char** skills;
-    char** languages;
-    char* contact;
-} Nobitha;
 
-void greet(Nobitha* n) {
-    printf("Hello, I'm %s! Nice to meet you. 😊\n", n->name);
-}
+## 📫 Get in Touch
 
-int main() {
-    char* skills[] = {"Python", "HTML", "CSS"};
-    char* languages[] = {"Telugu", "English", "Hindi"};
+Feel free to reach out to me:
 
-    Nobitha nobitha = {
-        .name = "Nobitha",
-        .age = "19+",
-        .nationality = "Indian 🇮🇳",
-        .religion = "Hindu 🥀",
-        .relationship_status = "with you 💖",
-        .skills = skills,
-        .languages = languages,
-        .contact = "+919876543210 😔",
-    };
+- Telegram: [Nobitha](https://t.me/my_name_is_nobitha)
 
-    greet(&nobitha);  // Output: "Hello, I'm Nobitha! Nice to meet you. 😊"
-
-    return 0;
-}
-```
+Thanks for visiting my profile!
