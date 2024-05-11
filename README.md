@@ -1,29 +1,22 @@
-# Hi there, I'm Nobitha! 👋
 
-I'm a passionate Telegram Bot developer with expertise in building innovative solutions. My interests range from developing telegram bots to web development, and I enjoy exploring new technologies to solve real-world problems.
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Yumiko-Bots&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yumiko-Bots&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumiko-Bots&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ Technologies & Tools
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Yumiko-Bots&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## 📊 GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=Yumiko-Bots&icon=6&color=3)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumiko-Bots&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yumiko-Bots&show_icons=true)
+  ## 💰You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/yumikodonations) 
 
-## 📈 Contributions
-
-![image](https://github.com/Yumiko-Bots/Yumiko-Bots/assets/131843574/28b63226-be35-443d-8bef-5f4b7744bf85)
-
-
-## 📫 Get in Touch
-
-Feel free to reach out to me:
-
-- Telegram: [Nobitha](https://t.me/my_name_is_nobitha)
-
-Thanks for visiting my profile!
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
